@@ -1,0 +1,24 @@
+{
+    "name": "tinymce-imageupload-batch",
+    "version": "1.0.1",
+    "description": "tinymce富文本图片上传插件",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "tinymce",
+        "imageupload",
+        "批量上传",
+        "batch",
+        "图片上传"
+    ],
+    "author": "luyin",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "devDependencies": {
+        "axios": "^0.18.0"
+    }
+}
